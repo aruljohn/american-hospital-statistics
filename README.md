@@ -1,6 +1,6 @@
-This is a sample Python script to retrieve information from [https://www.ahd.com/state_statistics.html](American Hospital Directory), create a pandas.DataFrame and export it to CSV. The 
+This is a sample Python script to retrieve information from [American Hospital Directory](https://www.ahd.com/state_statistics.html), create a pandas.DataFrame object and export it to a CSV file.
 
-This script uses the following modules:
+This script works on both Python 2.7 and 3.7 and uses the following modules:
 
 - `requests`
 - `pandas`
